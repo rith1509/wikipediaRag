@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+beautifulsoup4
+Pillow
+datasets
+FlagEmbedding
+transformers
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip install sentence-transformers langchain-huggingface -U
+pip install selenium webdriver-manager
+pip install undetected-chromedriver langchain-ollama -U
+6PW5WU0SBXOINFGYCPRIQRU1UKMT8THGDHVXB278OHGSJJS4APG63CGN0Y98IR4U0CEK597YX42EUU6K
